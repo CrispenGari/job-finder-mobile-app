@@ -14,7 +14,7 @@ This is a simple `REACT NATIVE` MOBILE APP using `expo` that searches for jobs:
 
 ### 2.
 
-[alt-text]()
+[alt-text](https://github.com/CrispenGari/job-finder-mobile-app/blob/main/Screenshot_20210127-211214_Expo.jpg)
 
 ### 3.
 
