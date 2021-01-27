@@ -10,15 +10,15 @@ This is a simple `REACT NATIVE` MOBILE APP using `expo` that searches for jobs:
 
 ### 1.
 
-[alt-text](https://github.com/CrispenGari/job-finder-mobile-app/blob/main/Screenshot_20210127-211210_Expo.jpg)
+![alt-text](https://github.com/CrispenGari/job-finder-mobile-app/blob/main/Screenshot_20210127-211210_Expo.jpg)
 
 ### 2.
 
-[alt-text](https://github.com/CrispenGari/job-finder-mobile-app/blob/main/Screenshot_20210127-211214_Expo.jpg)
+![alt-text](https://github.com/CrispenGari/job-finder-mobile-app/blob/main/Screenshot_20210127-211214_Expo.jpg)
 
 ### 3.
 
-[alt-text]()
+![alt-text](https://github.com/CrispenGari/job-finder-mobile-app/blob/main/Screenshot_20210127-211226_Expo.jpg)
 
 ## This application is using
 
